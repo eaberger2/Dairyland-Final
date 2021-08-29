@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap');
+
+body {
+    background-color: #ffffff;
+    padding: auto;
+    margin: auto;
+    text-align: center;
+}
+
+.categories {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navBar {
+    background-color: #053385;
+    text-decoration: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+li a:link, li a:visited {
+    text-decoration: none;
+    color: #ffffff;
+    font-size: large;
+    font-family: 'EB Garamond', serif;
+}
+
+li {
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 60px;
+    padding-left: 60px;
+    width: 80px;
+}
+
+li:hover {
+    background-color: #326ead;
+}
+
+
+
+
